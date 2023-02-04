@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ConfoundingVariables
 - 👀 I’m interested in Cyber Security and PKM
 - 🌱 I’m currently pursuing B.Sc. IT
-- 💞️ I’m looking to collaborate on soemthing soon
+- 💞️ I’m looking to collaborate on AI/ML or Security Projects!
 - 📫 How to reach me discord: TAKLU#1302
 
 <!---
